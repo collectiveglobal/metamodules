@@ -1,1 +1,1 @@
-# metamodules
+# METAModules - A metaverse asset marketplace
