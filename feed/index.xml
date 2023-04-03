@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Metamodules</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://collectiveglobal.net/metamodules/feed/" rel="self" type="application/rss+xml" />
+	<link>https://collectiveglobal.net/metamodules/</link>
 	<description></description>
 	<lastBuildDate>Mon, 03 Apr 2023 04:39:23 +0000</lastBuildDate>
 	<language>en-US</language>
